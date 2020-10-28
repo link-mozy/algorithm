@@ -10,3 +10,16 @@
 
 ----
 
+### 2020-10-24
+
+- [BAJ] Main_B_2583_영역구하기.java
+- [BAJ] Main_B_1260_DFS와BFS.java
+
+-----------------
+
+### 2020-10-23
+
+- [BAJ] Main_B_1244_스위치켜고끄기.java
+- [BAJ] Main_B_13300_방배정.java
+- [BAJ] Main_B_14696_딱지놀이.java
+

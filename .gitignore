@@ -121,4 +121,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# I don't know file
+.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,eclipse,java
