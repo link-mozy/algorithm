@@ -34,7 +34,6 @@
 ### 2020-12-20
 
 - [SWEA] Solution\_1226\_미로1\_DFS.java
-- 
 
 -----------------
 
@@ -42,3 +41,9 @@
 
 - [SWEA] Solution\_7733\_치즈도둑_DFS.java (Runtime error)
 - [SWEA] Solution\_7733\_치즈도둑_BFS.java
+
+-----------------
+
+### 2020-12-24
+
+* [SWEA] Solution\_8382\_방향전환.java
