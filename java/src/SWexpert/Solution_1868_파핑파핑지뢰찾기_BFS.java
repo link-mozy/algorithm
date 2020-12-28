@@ -135,7 +135,6 @@ public class Solution_1868_파핑파핑지뢰찾기_BFS {
 		}
 	}
 
-
 	private static String src = "2\n" + 
 			"3\n" + 
 			"..*\n" + 
