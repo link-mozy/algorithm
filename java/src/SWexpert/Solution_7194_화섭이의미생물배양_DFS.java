@@ -5,6 +5,16 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
+/**
+ *  @author mozy
+ *  @since 2021. 1. 6.
+ *  @see 
+ *  @mem 
+ *  @time 
+ *  @caution
+ *  Fail (Runtime error)
+ *  메모리 초과, 해결 못함. 
+*/
 public class Solution_7194_화섭이의미생물배양_DFS {
 
 	static int S, T, A, B;
@@ -25,8 +35,17 @@ public class Solution_7194_화섭이의미생물배양_DFS {
 			B = Integer.parseInt(st.nextToken());
 			min = Integer.MAX_VALUE;
 			
-			dfs(T, 0);
-			if(min == Integer.MAX_VALUE) min = -1;
+			if(B == 1) {
+				int tmp = T - S;
+				if(tmp % A == 0) {
+					min = tmp / A;
+				} else {
+					min = -1;
+				}
+			} else {
+				dfs(T, 0);
+				if(min == Integer.MAX_VALUE) min = -1;
+			}
 			sb.append("#" + tc + " " + min).append("\n");
 		}
 		
@@ -42,17 +61,18 @@ public class Solution_7194_화섭이의미생물배양_DFS {
 			return;
 		}
 		if(t%B == 0) {
-			dfs(t / B, cnt + 1);
-			dfs(t - A, cnt + 1);
+			if(t / B >= S) dfs(t / B, cnt + 1);
+			if(t - A >= S) dfs(t - A, cnt + 1);
 		} else {
 			dfs(t - A, cnt + 1);
 		}
 	}
 
-	static String src = "5\n" + 
+	static String src = "6\n" + 
 			"10 40 4 2\n" + 
 			"10 28 4 2\n" + 
 			"10 99 4 2\n" + 
 			"10 104 4 2\n" + 
-			"10 24 4 2";
+			"10 24 4 2\n" + 
+			"10 13 2 1";
 }

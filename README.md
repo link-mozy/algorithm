@@ -90,3 +90,4 @@
 
 * [BAJ] Main\_B\_1107\_리모컨\_BFS.java
 * [SWEA] Solution\_7194\_화섭이의미생물배양.java
+* [SWEA] Solution\_7194\_화섭이의미생물배양\_DFS.java (Runtime Error)

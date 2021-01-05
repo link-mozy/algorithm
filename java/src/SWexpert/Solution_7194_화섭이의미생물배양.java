@@ -5,6 +5,15 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
+/**
+ *  @author mozy
+ *  @since 2021. 1. 6.
+ *  @see https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE
+ *  @mem  16,076 kb
+ *  @time 98 ms
+ *  @caution
+ *  DFS로 풀려고했으나, 메모리 초과로 루프를 사용하여 문제 해결
+*/
 public class Solution_7194_화섭이의미생물배양 {
 	
 	public static void main(String[] args) throws Exception {
