@@ -196,3 +196,9 @@
 
 * [BAJ] Main\_B\_17135\_캐슬디펜스\_review.java
 * [SWEA] Solution\_4012\_요리사\_review.java
+
+-----------------
+
+### 2021-02-07
+
+* [SWEA] Solution\_1494\_사랑의카운슬러\_review.java
