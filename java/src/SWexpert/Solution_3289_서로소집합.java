@@ -74,14 +74,8 @@ public class Solution_3289_서로소집합 {
 		else numberGraph[number2] = number1;
 	}
 	
-	static String src = "1\n" + 
-			"7 8\n" + 
-			"0 1 3\n" + 
-			"1 1 7\n" + 
-			"0 7 6\n" + 
-			"1 7 1\n" + 
-			"0 3 7\n" + 
-			"0 4 2\n" + 
-			"0 1 1\n" + 
-			"1 1 1";
+	static String src = "3 3\n" + 
+			"0 0 1\n" + 
+			"0 2 1\n" + 
+			"1 0 1";
 }
