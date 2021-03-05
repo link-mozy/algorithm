@@ -9,9 +9,9 @@ import java.util.StringTokenizer;
 /**
  *  @author mozy
  *  @since 2021. 3. 2.
- *  @see 
- *  @mem 
- *  @time 
+ *  @see  https://www.acmicpc.net/problem/1922
+ *  @mem  45908
+ *  @time 468
  *  @caution
  *  쿠르스칼 알고리즘.
  *  사실 쿠르스칼 알고리즘을 잘모르지만, union-find 와 priorityQueue 를 사용하여,
