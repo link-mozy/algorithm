@@ -18,7 +18,7 @@ import java.util.StringTokenizer;
  *  최단 거리의 처음 간선들을 더하고 union으로 연결되면 결국 자신을 가리키니깐 if(start == end)에서
  *  continue로 생략하는 컨셉이 멋진 문제이다. 혼자서는 못풀었을 것같다... 
 */
-public class Main_B_1922_네트워크 {
+public class Main_B_1922_네트워크연결 {
 	
 	static int numberArr [];
 	
