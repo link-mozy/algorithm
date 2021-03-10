@@ -8,9 +8,9 @@ import java.util.StringTokenizer;
 /**
  *  @author mozy
  *  @since 2021. 3. 8.
- *  @see 
- *  @mem 
- *  @time 
+ *  @see  https://www.acmicpc.net/problem/2798
+ *  @mem  11648
+ *  @time 80
  *  @caution
  *  부르트포스 문제. 조합 사용.
 */
@@ -38,7 +38,7 @@ public class Main_B_2798_블랙잭 {
 	
 	private static void combination(int r, int start, int sum) {
 		if(r == 3) {
-			if(Math.abs(M - sum) < Math.abs(M - result)) result = sum;
+			if(sum <= M && Math.abs(M - sum) < Math.abs(M - result)) result = sum;
 			return;
 		} else {
 			
