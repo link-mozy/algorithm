@@ -3,11 +3,21 @@ package Beakjoon;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.StringReader;
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+
+/**
+ *  @author mozy
+ *  @since 2021. 3. 19.
+ *  @see https://www.acmicpc.net/problem/17070
+ *  @mem 
+ *  @time 
+ *  @caution
+ *  시간 초과 로 실패한 방법
+ *  BFS도 풀수는 있다고하는데... 시간 초과남... 
+*/
 public class Main_B_17070_파이프옮기기1 {
 	
 	static int N;
