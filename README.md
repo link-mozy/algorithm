@@ -12,8 +12,8 @@
 
 ### 2020-10-24
 
-- [BAJ] Main_B_2583_영역구하기.java
-- [BAJ] Main_B_1260_DFS와BFS.java
+- [[BAJ] Main_B_2583_영역구하기.java](./java/src/Beakjoon/Main_B_2583_영역구하기.java)
+- [[BAJ] Main_B_1260_DFS와BFS.java](./java/src/Beakjoon/Main_B_1260_DFS와BFS.java)
 
 -----------------
 
