@@ -408,6 +408,6 @@
 ### 2021-06-19
 
 * [[BAJ] Main\_B\_17472\_다리만들기2.java](./java/src/Beakjoon/Main_B_17472_다리만들기2.java)
-* [[CDT] Solution\_1\_BinaryGrap.java](./java/src/Codilty/Solution_1_BinaryGrap.java)
-* [[CDT] Solution\_2\_CyclicRotation.java](./java/src/Codilty/Solution_2_CyclicRotation.java)
+* [[CDT] Solution\_1\_BinaryGrap.java](./java/src/Codility/Solution_1_BinaryGrap.java)
+* [[CDT] Solution\_2\_CyclicRotation.java](./java/src/Codility/Solution_2_CyclicRotation.java)
 

@@ -22,7 +22,7 @@ import java.util.StringTokenizer;
  * 다리 길이 구하기에서 가장 어려웠었다. 섬 중간이 뚫린 상태에서 다른 섬과의 길이를 구하는 경우 때문...
  * 결국 모든 점을 기준으로 양방향으로 구함
  */
-public class Main_17472_B_다리만들기2 {
+public class Main_B_17472_다리만들기2 {
 	
 	static int N, M;
 	static int map [][];
