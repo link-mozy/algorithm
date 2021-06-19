@@ -7,6 +7,7 @@
 - BAJ : Main\_B\_문제번호\_문제이름
 - SWEA : Solution\_문제난이도\_문제번호\_문제이름
 - Programmers : Solution\_문제번호\_문제이름
+- CDT : Solution_Level(Lesson Level)_문제이름
 
 ----
 
@@ -394,10 +395,19 @@
 
 ### 2021-06-09
 
-* [BAJ] Main\_B\_17406\_배열돌리기4java
+* [BAJ] Main\_B\_17406\_배열돌리기4.java
 
 -----------------
 
 ### 2021-06-12
 
-* [[BAJ] Main\_B\_1197\_최소스패닝트리java](./java/src/Beakjoon/Main_B_1197_최소스패닝트리.java)
+* [[BAJ] Main\_B\_1197\_최소스패닝트리.java](./java/src/Beakjoon/Main_B_1197_최소스패닝트리.java)
+
+-----------------
+
+### 2021-06-19
+
+* [[BAJ] Main\_B\_17472\_다리만들기2.java](./java/src/Beakjoon/Main_B_17472_다리만들기2.java)
+* [[CDT] Solution\_1\_BinaryGrap.java](./java/src/Codilty/Solution_1_BinaryGrap.java)
+* [[CDT] Solution\_2\_CyclicRotation.java](./java/src/Codilty/Solution_2_CyclicRotation.java)
+
