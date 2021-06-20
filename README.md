@@ -410,4 +410,12 @@
 * [[BAJ] Main\_B\_17472\_다리만들기2.java](./java/src/Beakjoon/Main_B_17472_다리만들기2.java)
 * [[CDT] Solution\_1\_BinaryGrap.java](./java/src/Codility/Solution_1_BinaryGrap.java)
 * [[CDT] Solution\_2\_CyclicRotation.java](./java/src/Codility/Solution_2_CyclicRotation.java)
+* [[CDT] Solution\_2\_OddOccurrencesInArray.java](./java/src/Codility/Solution_2_OddOccurrencesInArray.java)
+
+-----------------
+
+### 2021-06-20
+
+* [[Programmers] Solution\_72410\_신규아이디추천.java](./java/src/Beakjoon/Main_72410_신규아이디추천.java)
+* [[Programmers] Solution\_1845\_포켓몬.java](./java/src/Beakjoon/Main_1845_포켓몬.java)
 

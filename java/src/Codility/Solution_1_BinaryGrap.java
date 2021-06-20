@@ -9,7 +9,7 @@ package Codility;
  * @caution 
  * 코딜리티 에디터 사용법 익히기
  */
-public class Solution_1_BinaryGap {
+public class Solution_1_BinaryGrap {
 
 	public static void main(String[] args) {
 		int N = 32;
