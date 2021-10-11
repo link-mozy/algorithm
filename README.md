@@ -419,3 +419,9 @@
 * [[Programmers] Solution\_72410\_신규아이디추천.java](./java/src/Beakjoon/Main_72410_신규아이디추천.java)
 * [[Programmers] Solution\_1845\_포켓몬.java](./java/src/Beakjoon/Main_1845_포켓몬.java)
 
+-----------------
+
+### 2021-06-21
+
+* [[Programmers] Solution\_42576\_완주하지못한선수.java](./java/src/Beakjoon/Main_42576_완주하지못한선수.java)
+
