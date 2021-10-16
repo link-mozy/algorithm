@@ -425,3 +425,14 @@
 
 * [[Programmers] Solution\_42576\_완주하지못한선수.java](./java/src/Beakjoon/Main_42576_완주하지못한선수.java)
 
+-----------------
+
+### 2021-10-10
+
+* [[BAJ] Main\_B\_14888\_연산자끼워넣기.java](./java/src/Beakjoon/Main_14888_연산자끼워넣기.java)
+
+-----------------
+
+### 2021-10-17
+
+* [[BAJ] Main\_B\_14888\_연산자끼워넣기_2.java](./java/src/Beakjoon/Main_14888_연산자끼워넣기_2.java)
