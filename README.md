@@ -442,3 +442,9 @@
 ### 2021-10-20
 
 - [[BAJ] Main\_B\_9663\_NQueen.java](./java/src/Beakjoon/Main_B_9663_NQueen.java)
+
+------
+
+### 2021-10-21
+
+- [[BAJ] Main\_B\_9663\_NQueen\_2.java](./java/src/Beakjoon/Main_B_9663_NQueen_2.java)
