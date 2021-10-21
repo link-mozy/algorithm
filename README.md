@@ -448,3 +448,10 @@
 ### 2021-10-21
 
 - [[BAJ] Main\_B\_9663\_NQueen\_2.java](./java/src/Beakjoon/Main_B_9663_NQueen_2.java)
+
+------
+
+### 2021-10-22
+
+- [[BAJ] Main\_B\_1186\_부분수열의합.java](./java/src/Beakjoon/Main_B_1186_부분수열의합.java)
+
