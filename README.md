@@ -455,3 +455,9 @@
 
 - [[BAJ] Main\_B\_1186\_부분수열의합.java](./java/src/Beakjoon/Main_B_1186_부분수열의합.java)
 
+------
+
+### 2021-10-23
+
+- [[BAJ] Main\_B\_10825\_국영수.java](./java/src/Beakjoon/Main_B_10825_국영수.java)
+- [[BAJ] Main\_B\_11652\_카드.java](./java/src/Beakjoon/Main_B_11652_카드.java)
