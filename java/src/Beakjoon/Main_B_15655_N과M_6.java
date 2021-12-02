@@ -23,7 +23,7 @@ public class Main_B_15655_N과M_6 {
 	
 	public static void main(String[] args) throws Exception {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-		in = new BufferedReader(new StringReader(src));
+//		in = new BufferedReader(new StringReader(src));
 		sb = new StringBuilder();
 		StringTokenizer st = new StringTokenizer(in.readLine(), " ");
 		N = Integer.parseInt(st.nextToken());
