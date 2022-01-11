@@ -416,12 +416,60 @@
 
 ### 2021-06-20
 
-* [[Programmers] Solution\_72410\_신규아이디추천.java](./java/src/Beakjoon/Main_72410_신규아이디추천.java)
-* [[Programmers] Solution\_1845\_포켓몬.java](./java/src/Beakjoon/Main_1845_포켓몬.java)
+* [[Programmers] Solution\_72410\_신규아이디추천.java](./java/src/Programmers/Solution_72410_신규아이디추천.java)
+* [[Programmers] Solution\_1845\_포켓몬.java](./java/src/Programmers/Solution_1845_포켓몬.java)
 
 -----------------
 
 ### 2021-06-21
 
-* [[Programmers] Solution\_42576\_완주하지못한선수.java](./java/src/Beakjoon/Main_42576_완주하지못한선수.java)
+* [[Programmers] Solution\_42576\_완주하지못한선수.java](./java/src/Programmers/Solution_42576_완주하지못한선수.java)
 
+-----------------
+
+### 2021-10-10
+
+* [[BAJ] Main\_B\_14888\_연산자끼워넣기.java](./java/src/Beakjoon/Main_B_14888_연산자끼워넣기.java)
+
+-----------------
+
+### 2021-10-17
+
+* [[BAJ] Main\_B\_14888\_연산자끼워넣기_2.java](./java/src/Beakjoon/Main_B_14888_연산자끼워넣기_2.java)
+
+------
+
+### 2021-10-20
+
+- [[BAJ] Main\_B\_9663\_NQueen.java](./java/src/Beakjoon/Main_B_9663_NQueen.java)
+
+------
+
+### 2021-10-21
+
+- [[BAJ] Main\_B\_9663\_NQueen\_2.java](./java/src/Beakjoon/Main_B_9663_NQueen_2.java)
+
+------
+
+### 2021-10-22
+
+- [[BAJ] Main\_B\_1186\_부분수열의합.java](./java/src/Beakjoon/Main_B_1186_부분수열의합.java)
+
+------
+
+### 2021-10-23
+
+- [[BAJ] Main\_B\_10825\_국영수.java](./java/src/Beakjoon/Main_B_10825_국영수.java)
+- [[BAJ] Main\_B\_11652\_카드.java](./java/src/Beakjoon/Main_B_11652_카드.java)
+
+------
+
+### 2021-12-02
+
+- [[BAJ] Main\_B\_13458\_시험감독.java](./java/src/Beakjoon/Main_B_13458_시험감독.java)
+
+------
+
+### 2022-01-11
+
+- [[BAJ] Main\_B\_1015\_수열정렬.java](./java/src/Beakjoon/Main_B_1015_수열정렬.java)

@@ -5,6 +5,14 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
+/**
+ * @author mozy
+ * @since 2021. 10. 16.
+ * @see  https://www.acmicpc.net/problem/14888
+ * @mem  13288 KB
+ * @time 100 ms
+ * @caution 
+ */
 public class Main_B_14888_연산자끼워넣기 {
 
 	static int N, max, min;
