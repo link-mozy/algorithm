@@ -18,7 +18,7 @@ import java.util.StringTokenizer;
  * 배열을 객체의 숫자로 정렬을 한뒤 인덱스의 위치를 가지고 순서를 갖는 배열을 다시 만든다. 
  */
 
-public class Main_1015_수열정렬 {
+public class Main_B_1015_수열정렬 {
 
 	static int N;
 	static int [] P;
