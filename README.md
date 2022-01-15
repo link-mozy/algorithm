@@ -479,3 +479,4 @@
 ### 2022-01-15
 
 - [[BAJ] Main\_B\_11652\_카드\_2.java](./java/src/Beakjoon/Main_B_11652_카드_2.java)
+- [[BAJ] Main\_B\_15970\_화살표그리기.java](./java/src/Beakjoon/Main_B_15970_화살표그리기.java)
