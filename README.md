@@ -473,3 +473,9 @@
 ### 2022-01-11
 
 - [[BAJ] Main\_B\_1015\_수열정렬.java](./java/src/Beakjoon/Main_B_1015_수열정렬.java)
+
+------
+
+### 2022-01-15
+
+- [[BAJ] Main\_B\_11652\_카드\_2.java](./java/src/Beakjoon/Main_B_11652_카드_2.java)
