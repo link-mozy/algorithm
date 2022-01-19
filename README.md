@@ -477,6 +477,13 @@
 
 ---
 
+### 2022-01-15
+
+- [[BAJ] Main_B_11652\_카드\_2.java](./java/src/Beakjoon/Main_B_11652_카드_2.java)
+- [[BAJ] Main_B_15970\_화살표그리기.java](./java/src/Beakjoon/Main_B_15970_화살표그리기.java)
+
+---
+
 ### 2022-01-20
 
 - [[BAJ] Main_B_7795\_먹을것인가먹힐것인가.java](./java/src/Beakjoon/Main_B_7795_먹을것인가먹힐것인가.java)
