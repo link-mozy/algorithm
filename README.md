@@ -487,3 +487,9 @@
 ### 2022-01-20
 
 - [[BAJ] Main_B_7795\_먹을것인가먹힐것인가.java](./java/src/Beakjoon/Main_B_7795_먹을것인가먹힐것인가.java)
+
+---
+
+### 2022-01-24
+
+- [[BAJ] Main_B_1920\_수찾기.java](./java/src/Beakjoon/Main_B_1920_수찾기.java)
