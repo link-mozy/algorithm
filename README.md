@@ -493,3 +493,10 @@
 ### 2022-01-24
 
 - [[BAJ] Main_B_1920\_수찾기.java](./java/src/Beakjoon/Main_B_1920_수찾기.java)
+
+------
+
+### 2022-01-25
+
+- [[BAJ] Main\_B\_1764\_듣보잡java](./java/src/Beakjoon/Main_B_1764_듣보잡.java)
+
