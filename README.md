@@ -498,5 +498,12 @@
 
 ### 2022-01-25
 
-- [[BAJ] Main\_B\_1764\_듣보잡java](./java/src/Beakjoon/Main_B_1764_듣보잡.java)
+- [[BAJ] Main\_B\_1764\_듣보잡.java](./java/src/Beakjoon/Main_B_1764_듣보잡.java)
+
+
+------
+
+### 2022-01-26
+
+- [[BAJ] Main\_B\_3273\_두수의합.java](./java/src/Beakjoon/Main_B_3273_두수의합.java)
 
