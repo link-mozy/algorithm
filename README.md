@@ -507,3 +507,10 @@
 
 - [[BAJ] Main\_B\_3273\_두수의합.java](./java/src/Beakjoon/Main_B_3273_두수의합.java)
 
+
+------
+
+### 2022-02-05
+
+- [[BAJ] Main\_B\_10816\_숫자카드2\_실패.java](./java/src/Beakjoon/Main_B_10816_숫자카드2_실패.java)
+- [[BAJ] Main\_B\_10816\_숫자카드2.java](./java/src/Beakjoon/Main_B_10816_숫자카드2.java)
