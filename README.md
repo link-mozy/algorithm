@@ -494,23 +494,27 @@
 
 - [[BAJ] Main_B_1920\_수찾기.java](./java/src/Beakjoon/Main_B_1920_수찾기.java)
 
-------
+---
 
 ### 2022-01-25
 
-- [[BAJ] Main\_B\_1764\_듣보잡.java](./java/src/Beakjoon/Main_B_1764_듣보잡.java)
+- [[BAJ] Main_B_1764\_듣보잡.java](./java/src/Beakjoon/Main_B_1764_듣보잡.java)
 
-
-------
+---
 
 ### 2022-01-26
 
-- [[BAJ] Main\_B\_3273\_두수의합.java](./java/src/Beakjoon/Main_B_3273_두수의합.java)
+- [[BAJ] Main_B_3273\_두수의합.java](./java/src/Beakjoon/Main_B_3273_두수의합.java)
 
-
-------
+---
 
 ### 2022-02-05
 
-- [[BAJ] Main\_B\_10816\_숫자카드2\_실패.java](./java/src/Beakjoon/Main_B_10816_숫자카드2_실패.java)
-- [[BAJ] Main\_B\_10816\_숫자카드2.java](./java/src/Beakjoon/Main_B_10816_숫자카드2.java)
+- [[BAJ] Main_B_10816\_숫자카드2\_실패.java](./java/src/Beakjoon/Main_B_10816_숫자카드2_실패.java)
+- [[BAJ] Main_B_10816\_숫자카드2.java](./java/src/Beakjoon/Main_B_10816_숫자카드2.java)
+
+---
+
+### 2022-02-08
+
+- [[BAJ] Main_B_2470\_두용액.java](./java/src/Beakjoon/Main_B_2470_두용액.java)
