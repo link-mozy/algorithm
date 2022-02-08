@@ -518,3 +518,4 @@
 ### 2022-02-08
 
 - [[BAJ] Main_B_2470\_두용액.java](./java/src/Beakjoon/Main_B_2470_두용액.java)
+- [[BAJ] Main_B_2805\_나무자르기.java](./java/src/Beakjoon/Main_B_2805_나무자르기.java)
