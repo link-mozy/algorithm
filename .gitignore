@@ -256,5 +256,8 @@ $RECYCLE.BIN/
 # Test package
 java/src/Test/
 
+# Custom add file
+.project
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all
 >>>>>>> 70e2a735a0e337a2963241e5286b2d078e25ada2
