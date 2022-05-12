@@ -531,3 +531,9 @@
 ### 2022-05-10
 
 - [[BAJ] Main_B_1806\_부분합.java](./java/src/Beakjoon/Main_B_1806_부분합.java)
+
+---
+
+### 2022-05-12
+
+- [[BAJ] Main_B_2003\_수들의합2.java](./java/src/Beakjoon/Main_B_2003_수들의합2.java)
