@@ -543,3 +543,9 @@
 ### 2022-05-16
 
 - [[BAJ] Main_B_2559\_수열.java](./java/src/Beakjoon/Main_B_2559_수열.java)
+
+---
+
+### 2022-05-24
+
+- [[BAJ] Main_B_15565\_귀여운라이언.java](./java/src/Beakjoon/Main_B_15565_귀여운라이언.java)
