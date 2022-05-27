@@ -555,3 +555,9 @@
 ### 2022-05-26
 
 - [[BAJ] Main_B_11728\_배열합치기.java](./java/src/Beakjoon/Main_B_11728_배열합치기.java)
+
+---
+
+### 2022-05-27
+
+- [[BAJ] Main_B_2230\_수고르기.java](./java/src/Beakjoon/Main_B_2230_수고르기.java)
