@@ -417,14 +417,14 @@
 
 ### 2021-06-20
 
-- [[Programmers] Solution_72410\_신규아이디추천.java](./java/src/Programmers/Solution_72410_신규아이디추천.java)
-- [[Programmers] Solution_1845\_포켓몬.java](./java/src/Programmers/Solution_1845_포켓몬.java)
+- [[Programmers] Solution_72410\_신규아이디추천.java](./java/src/Programmers/General/Solution_72410_신규아이디추천.java)
+- [[Programmers] Solution_1845\_포켓몬.java](./java/src/Programmers/General/Solution_1845_포켓몬.java)
 
 ---
 
 ### 2021-06-21
 
-- [[Programmers] Solution_42576\_완주하지못한선수.java](./java/src/Programmers/Solution_42576_완주하지못한선수.java)
+- [[Programmers] Solution_42576\_완주하지못한선수.java](./java/src/Programmers/General/Solution_42576_완주하지못한선수.java)
 
 ---
 
@@ -561,3 +561,9 @@
 ### 2022-05-27
 
 - [[BAJ] Main_B_2230\_수고르기.java](./java/src/Beakjoon/Main_B_2230_수고르기.java)
+
+---
+
+### 2023-03-16
+
+- [[Programmers] Solution\_연습문제\_바탕화면정리.java](./java/src/Programmers/Training/Solution_연습문제_바탕화면정리.java)

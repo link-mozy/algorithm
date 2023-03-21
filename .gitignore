@@ -258,6 +258,7 @@ java/src/Test/
 
 # Custom add file
 .project
+java/src/Programmers/CodingTest/*.java
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all
 >>>>>>> 70e2a735a0e337a2963241e5286b2d078e25ada2

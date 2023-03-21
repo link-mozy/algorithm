@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers.General;
 
 public class Solution_72410_신규아이디추천 {
 	
