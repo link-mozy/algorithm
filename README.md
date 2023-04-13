@@ -567,3 +567,9 @@
 ### 2023-03-16
 
 - [[Programmers] Solution\_연습문제\_바탕화면정리.java](./java/src/Programmers/Training/Solution_연습문제_바탕화면정리.java)
+
+---
+
+### 2023-04-14
+
+- [[BAJ] Main\_B\_2003\_수들의합2\_2.java](./java/src/Beakjoon/Main_B_2003_수들의합2_2.java)
