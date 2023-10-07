@@ -573,3 +573,9 @@
 ### 2023-04-14
 
 - [[BAJ] Main\_B\_2003\_수들의합2\_2.java](./java/src/Beakjoon/Main_B_2003_수들의합2_2.java)
+
+---
+
+### 2023-10-07
+
+- [[BAJ] Main\_B\_2178\_미로탐색\_BFS.java](./java/src/Beakjoon/Main_B_2178_미로탐색_BFS.java)
