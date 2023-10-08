@@ -579,3 +579,9 @@
 ### 2023-10-07
 
 - [[BAJ] Main\_B\_2178\_미로탐색\_BFS.java](./java/src/Beakjoon/Main_B_2178_미로탐색_BFS.java)
+
+---
+
+### 2023-10-08
+
+- [[BAJ] Main\_B\_1012\_유기농배추\_BFS.java](./java/src/Beakjoon/Main_B_1012_유기농배추_BFS.java)
