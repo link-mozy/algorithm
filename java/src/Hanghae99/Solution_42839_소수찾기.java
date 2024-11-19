@@ -2,6 +2,14 @@ package Hanghae99;
 
 import java.util.HashSet;
 
+/**
+ *  @author mozy
+ *  @since 11/19/24
+ *  @see <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839" />
+ *  @mem KB
+ *  @time ms
+ *  @caution 완전 탐색
+*/
 public class Solution_42839_소수찾기 {
 
     public static void main(String[] args) {
