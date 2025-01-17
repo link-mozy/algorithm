@@ -1,4 +1,4 @@
-package Beakjoon;
+package Hanghae99;
 
 import java.io.*;
 import java.util.Arrays;

@@ -1,48 +1,63 @@
-package Beakjoon;
+package Hanghae99;
 
 import java.io.*;
-import java.util.HashSet;
-import java.util.Set;
 import java.util.StringTokenizer;
 
 /**
  *  @author mozy
- *  @since 1/13/25
- *  @see <a href="https://www.acmicpc.net/problem/2776" />
- *  @mem 289104 KB
- *  @time 1612 ms
- *  @caution 집합 자료형 알고리즘 문제
+ *  @since 1/14/25
+ *  @see <a href="https://www.acmicpc.net/problem/1654" />
+ *  @mem 18184 KB
+ *  @time 176 ms
+ *  @caution 바이너리 서치 알고리즘
 */
-public class Main_B_2776_암기왕 {
+public class Main_B_1654_랜선자르기2 {
+
+    static int K, N;
+    static long max;
+    static long kList[];
 
     static FastReader scan = new FastReader();
-    static int M;
-    static Set<Integer> map;
 
+    static void input() {
+        K = scan.nextInt();
+        N = scan.nextInt();
+        max = 1;
+        kList = new long[K];
 
-    static void solution() {
-        StringBuilder sb = new StringBuilder();
+        for (int k = 0; k < K; k++) {
+            kList[k] = scan.nextLong();
+            max = Math.max(max, kList[k]);
+        }
+    }
 
-        int T = scan.nextInt();
-        for(int t = 0; t < T; t++) {
-            map = new HashSet<>();
-            int N = scan.nextInt();
-            for (int i = 0; i < N; i++) {
-                map.add(scan.nextInt());
-            }
-            M = scan.nextInt();
-            for (int i = 0; i < M; i++) {
-                int x = scan.nextInt();
-                sb.append((map.contains(x))? 1 : 0).append("\n");
+    static boolean possibleK(long number) {
+        int count = 0;
+        for(int k = 0; k < K; k++) {
+            count += (kList[k] / number);
+        }
+        return N <= count;
+    }
+
+    static long proc() {
+        long left = 1;
+        long right = max;
+
+        while (left <= right) {
+            long mid = (left + right) / 2;
+            if (!possibleK(mid)) {
+                right = mid - 1;
+            } else {
+                left = mid + 1;
             }
         }
-
-        System.out.println(sb);
+        return right;
     }
 
     // Main
     public static void main(String[] args) {
-        solution();
+        input();
+        System.out.println(proc());
     }
 
     static class FastReader {
